@@ -2,6 +2,6 @@ package abc;
 
 public class Demo {
 
-int i=10;
+Sttring s="ramu";
 
 }
