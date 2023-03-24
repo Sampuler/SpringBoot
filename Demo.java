@@ -6,5 +6,10 @@ Sttring s="ramu";
 
 String S1="Swaraj";
 String S2="Ravi";
+<<<<<<< Updated upstream
 String s4="srinivas";
+=======
+
+String s3="Rajesh";
+>>>>>>> Stashed changes
 }
